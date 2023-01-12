@@ -35,5 +35,20 @@ public class HW1 {
              if (day == 1) {
                  System.out.println("I do not need a day off any more");
              }*/
+
+        /* solved with teacher:
+
+        boolean workDay=true;
+        int day=1;
+        while(day<8){
+        if(day<=5){
+        System.out.println("I need day off");
+        }else{
+        System.out.println("I do not need a day off anymore");
+        workDay=false;
+        }
+        day++; //it is equal do=day +1 day+1
+
+         */
     }
 }
