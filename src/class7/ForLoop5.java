@@ -10,5 +10,8 @@ public class ForLoop5 {
         for (int asgharTheBest = 1;asgharTheBest <= 12; asgharTheBest++) {
             System.out.println("3 * "+asgharTheBest+" = "+(3*asgharTheBest));
         }
+
+
+
     }
 }
